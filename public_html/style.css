@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -32,6 +36,22 @@ img {
 
 .artem_maximov_logo {
     width: 300px;
+}
+
+.section_links {
+    color: white;
+}
+
+.section-links a,
+.section-links a:hover,
+.section-links a:active,
+.section-links a:focus,
+.section-links a:visited {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 
 body {
@@ -150,7 +170,7 @@ section {
 
 .skill-level {
     height: 100%;
-    background-color: var(--secondary-color);
+    background-color: var(--dark-accent-color);
     border-radius: 5px;
 }
 
