@@ -10,14 +10,14 @@ html {
 }
 
 :root {
-    --secondary-700: #129264;
-    --secondary-600: #18BF83;
+    --secondary-700: #178067;
+    --secondary-600: #1FAB8A;
     --base: #FFFFFF;
-    --primary-800: #001e4f;
-    --primary-700: #003182;
-    --primary-600: #0045B5;
-    --primary-400: #1C72FF;
-    --primary-50: #CEE1FF;
+    --primary-800: #022a62;
+    --primary-700: #033F94;
+    --primary-600: #0455C6;
+    --primary-400: #3588FB;
+    --primary-50: #E4EFFE;
     --shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
